@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kantanand US",
+  "author": "Ali Ahmad",
   "license": "GPL-3.0",
   "dependencies": {
     "bcryptjs": "^2.4.3",
